@@ -1,8 +1,8 @@
 # web-scraping-challenge
 Module_11_Challenge_HTML
 
-## In this assignment, I will use my newfound web scraping skills to tackle this challenge.
-
+### In this assignment, I will use my newfound web scraping skills to tackle this challenge.
+--------------------------------------------------------------------------------------------
 This new assignment consists of two technical products. You will submit the following deliverables:
 
 ### Deliverable 1: Scrape titles and preview text from Mars news articles.
